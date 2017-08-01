@@ -1,0 +1,15 @@
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\NCCQ.DAL.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\NCCQ.DAL.pdb
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\NCCQ.DBFactory.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\NCCQ.Model.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\NCCQ.Util.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\MySql.Data.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\Newtonsoft.Json.Net20.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\NCCQ.DBFactory.pdb
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\NCCQ.Model.pdb
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\NCCQ.Util.pdb
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\Newtonsoft.Json.Net20.pdb
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\bin\Release\Newtonsoft.Json.Net20.xml
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\obj\Release\ResolveAssemblyReference.cache
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\obj\Release\NCCQ.DAL.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.DAL\obj\Release\NCCQ.DAL.pdb

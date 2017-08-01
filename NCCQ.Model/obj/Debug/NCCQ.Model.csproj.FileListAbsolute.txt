@@ -1,0 +1,17 @@
+E:\NewNccqPro\NCCQWEB\NCCQ.Model\bin\Debug\NCCQ.Model.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.Model\bin\Debug\NCCQ.Model.pdb
+E:\NewNccqPro\NCCQWEB\NCCQ.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\NewNccqPro\NCCQWEB\NCCQ.Model\obj\Debug\NCCQ.Model.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.Model\obj\Debug\NCCQ.Model.pdb
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\NCCQWEB\NCCQ.Model\bin\Debug\NCCQ.Model.dll
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\NCCQWEB\NCCQ.Model\bin\Debug\NCCQ.Model.pdb
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\NCCQWEB\NCCQ.Model\obj\Debug\NCCQ.Model.dll
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\NCCQWEB\NCCQ.Model\obj\Debug\NCCQ.Model.pdb
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\演示用的\NCCQWEB\NCCQ.Model\bin\Debug\NCCQ.Model.dll
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\演示用的\NCCQWEB\NCCQ.Model\bin\Debug\NCCQ.Model.pdb
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\演示用的\NCCQWEB\NCCQ.Model\obj\Debug\NCCQ.Model.dll
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\演示用的\NCCQWEB\NCCQ.Model\obj\Debug\NCCQ.Model.pdb
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\laiwuchanquan\NCCQWEB\NCCQ.Model\bin\Debug\NCCQ.Model.dll
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\laiwuchanquan\NCCQWEB\NCCQ.Model\bin\Debug\NCCQ.Model.pdb
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\laiwuchanquan\NCCQWEB\NCCQ.Model\obj\Debug\NCCQ.Model.dll
+F:\mywork\newland\农村产权网站\NCCQWEB-2014-12-18\laiwuchanquan\NCCQWEB\NCCQ.Model\obj\Debug\NCCQ.Model.pdb

@@ -1,0 +1,8 @@
+E:\NewNccqPro\NCCQWEB\NCCQ.Util\bin\Release\NCCQ.Util.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.Util\bin\Release\NCCQ.Util.pdb
+E:\NewNccqPro\NCCQWEB\NCCQ.Util\bin\Release\Newtonsoft.Json.Net20.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.Util\bin\Release\Newtonsoft.Json.Net20.pdb
+E:\NewNccqPro\NCCQWEB\NCCQ.Util\bin\Release\Newtonsoft.Json.Net20.xml
+E:\NewNccqPro\NCCQWEB\NCCQ.Util\obj\Release\ResolveAssemblyReference.cache
+E:\NewNccqPro\NCCQWEB\NCCQ.Util\obj\Release\NCCQ.Util.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.Util\obj\Release\NCCQ.Util.pdb

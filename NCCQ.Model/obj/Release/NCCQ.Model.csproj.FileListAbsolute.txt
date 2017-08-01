@@ -1,0 +1,5 @@
+E:\NewNccqPro\NCCQWEB\NCCQ.Model\bin\Release\NCCQ.Model.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.Model\bin\Release\NCCQ.Model.pdb
+E:\NewNccqPro\NCCQWEB\NCCQ.Model\obj\Release\ResolveAssemblyReference.cache
+E:\NewNccqPro\NCCQWEB\NCCQ.Model\obj\Release\NCCQ.Model.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.Model\obj\Release\NCCQ.Model.pdb

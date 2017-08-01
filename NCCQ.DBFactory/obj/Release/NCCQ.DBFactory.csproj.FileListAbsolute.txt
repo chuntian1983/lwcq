@@ -1,0 +1,6 @@
+E:\NewNccqPro\NCCQWEB\NCCQ.DBFactory\bin\Release\NCCQ.DBFactory.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.DBFactory\bin\Release\NCCQ.DBFactory.pdb
+E:\NewNccqPro\NCCQWEB\NCCQ.DBFactory\bin\Release\MySql.Data.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.DBFactory\obj\Release\ResolveAssemblyReference.cache
+E:\NewNccqPro\NCCQWEB\NCCQ.DBFactory\obj\Release\NCCQ.DBFactory.dll
+E:\NewNccqPro\NCCQWEB\NCCQ.DBFactory\obj\Release\NCCQ.DBFactory.pdb
